@@ -2,7 +2,7 @@
 
 A modern, full-stack pharmacy management system built with React and Node.js that helps pharmacies streamline their operations, manage inventory, and provide better patient care.
 
-### Live Link: https://pharmacyserver.vercel.app/api
+### Live Link: https://pharmacyserver.vercel.app
 
 ## Features
 1. Inventory Management
